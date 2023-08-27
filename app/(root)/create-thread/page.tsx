@@ -20,7 +20,7 @@ async function Page() {
             <PostThread userId = {userInfo._id}/>
         </>
         
-    )
+    );
 }
 
 export default Page;

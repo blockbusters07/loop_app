@@ -54,6 +54,7 @@ async function Page({ params }: { params: { id: string}}) {
                                 )}
                             </TabsTrigger>
                         ))}
+                        
                     </TabsList>
 
                     {profileTabs.map((tab) => (
