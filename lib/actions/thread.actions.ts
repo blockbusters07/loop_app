@@ -55,7 +55,11 @@ interface Params {
   path: string,
 }
 
-export async function createThread({ text, author, communityId, path }: Params
+export async function createThread({ text, 
+  author, 
+  communityId, 
+  path 
+}: Params
 ) {
   try {
     connectToDB();
