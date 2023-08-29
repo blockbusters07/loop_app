@@ -52,6 +52,8 @@ async function Page({ params }: { params: { id: string}}) {
                                         {userInfo?.threads?.length}
                                     </p>
                                 )}
+
+                                
                             </TabsTrigger>
                         ))}
                         

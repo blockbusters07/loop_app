@@ -29,7 +29,7 @@ async function Home({
     <>
       <h4 className="main-head text-center " >Connect To Alumni & Get Your Doubts Cleared</h4>
       <div>
-        <span>" "</span>
+        <span>.</span>
       </div>
       <h1 className='head-text text-center'>Home</h1>
 
