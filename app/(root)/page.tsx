@@ -27,7 +27,7 @@ async function Home({
 
   return (
     <>
-      <h4 className="main-head text-center " >Connect To Alumni & Get Your Doubts Cleared</h4>
+      <h4 className="main-head text-center " >Connect To People & Get Your Doubts Cleared</h4>
       <div>
         <span>.</span>
       </div>
