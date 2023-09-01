@@ -13,8 +13,8 @@ import Topbar from "@/components/shared/Topbar";
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Loop',
-  description: 'A Next.js 13 Meta Loop Application'
+  title: 'ConnectEd',
+  description: 'A Next.js 13 Meta ConnectEd Application'
 }
 
 
